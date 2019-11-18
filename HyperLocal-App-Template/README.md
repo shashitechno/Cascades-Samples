@@ -145,7 +145,7 @@ There are a few things you'll need to modify in the **bar-descriptor.xml** file 
 There are a few websites we frequent to make building these apps easier. 
 
 - [JSON Lint](www.jsonlint.com) - After configuring the settings.json file, paste it into JSONLint.com and make sure it's valid. If it's not, the app will not load.
-- [Find my Facebook ID](http://findmyfacebookid.com/) - This website retrieves a Facebook Page ID from a URL.
+- [Find my Facebook ID](https://findmyfbid.in/) - This website retrieves a Facebook Page ID from a URL.
 - [GPS Coords from Address](http://www.characterscounter.com/get-coordinates-google-maps.php) - Type in an address, and get its GPS Coordinates.
 - [UUID Generator](http://www.famkruithof.net/uuid/uuidgen) - Easily generate UUIDs for use with BBM.
 
